@@ -1,2 +1,4 @@
 # Git-Repo
-This is my first Git Repository. My name is Apoorva
+This is my first Git Repository. 
+<br>
+My name is Apoorva
